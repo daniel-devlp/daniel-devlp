@@ -20,7 +20,11 @@ Connect with me to explore potential collaborations and opportunities
 <br/> 
 <br/>
 ### 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/clayaldas) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/clayaldas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clayaldas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clayaldas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/clayaldas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/clayaldas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clayaldas) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
 <!--
 **daniel-devlp/daniel-devlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
